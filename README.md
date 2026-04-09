@@ -1,4 +1,4 @@
-# Hi there, I'm Vanya 👋
+### Hi there, I'm Vanya 👋
 
 I am a 3rd-year Computer Science student at **HSE University (Faculty of Computer Science)**. My work focuses on the intersection of quantitative finance, market simulation, and discrete mathematics.
 
